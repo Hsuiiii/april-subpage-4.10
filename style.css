@@ -1,0 +1,47 @@
+body{
+background-color: #99dec5;
+font-family: 'Josefin Sans', sans-serif;
+margin:7%;
+color: rgb(69, 177, 114);
+font-size:20px;
+}
+
+
+
+#nday{
+text-align: right;
+}
+
+h1{
+ font-size:60px;
+}
+
+img{
+
+margin-left: 70%;
+}
+
+#text{
+width:70%;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+  body{
+    background-color: #99dec5;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(253, 255, 154);
+    font-size:18px;
+    }
+    
+    #text{
+    width:100%;
+}
+img{
+
+margin-left: 40%;
+}
+}
+    
+   
