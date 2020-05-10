@@ -1,7 +1,10 @@
 body{
 background-color: #99dec5;
 font-family: 'Josefin Sans', sans-serif;
-margin:7%;
+margin-left:20%;
+margin-right:20%;
+margin-top:5%;
+margin-bottom:5%;
 color: rgb(69, 177, 114);
 font-size:20px;
 }
