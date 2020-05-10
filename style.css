@@ -1,11 +1,12 @@
 body{
-background-color: #99dec5;
-font-family: 'Josefin Sans', sans-serif;
+
 margin-left:20%;
 margin-right:20%;
 margin-top:5%;
 margin-bottom:5%;
-color: rgb(69, 177, 114);
+color: white;
+background-color: rgb(151, 247, 183);
+font-family: 'Poppins', sans-serif;
 font-size:20px;
 }
 
@@ -32,6 +33,15 @@ width:70%;
 }
 
 
+a{
+      
+color:  white;
+text-decoration: none;
+      
+}
+      
+      
+      
 @media only screen and (max-width: 600px) {
 
   body{
@@ -48,6 +58,11 @@ img{
 
 margin-left: 40%;
 }
+
+      a{
+      color: white;
+      text-decoration: none;
+      }
 }
     
    
